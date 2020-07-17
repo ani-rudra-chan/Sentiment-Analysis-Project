@@ -1,4 +1,5 @@
-# speech_sentiment_analysis
+# Sentiment Analysis using NLTK Library
+## An analysis of Pandit Nehru's speech before Independence
 
 ## Introduction
 
